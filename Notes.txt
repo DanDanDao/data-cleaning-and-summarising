@@ -1,0 +1,7 @@
+value_counts():
+symboling
+make
+fuel-type
+aspiration
+num-of-doors
+
